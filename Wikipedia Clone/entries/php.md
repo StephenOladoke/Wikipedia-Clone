@@ -1,0 +1,2 @@
+# php
+PHP is a server scripting language and a powerful tool used to create a dynamic and interactive website or webpage. Although it is known to produce bad codes and it also has security problems, which makes it one of the most hated language
